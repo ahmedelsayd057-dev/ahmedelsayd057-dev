@@ -53,4 +53,11 @@ I specialize in building complete digital ecosystems, from high-performance **Mo
 </p>
 
 ### ⚡ My GitHub Activity
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ahmedelsayd057-dev&theme=dracula)
+
+- 🔭 I’m currently working on **Full-Stack Development Projects**
+- 🌱 I’m currently learning **Advanced System Architecture & Cloud Deployment**
+- 💬 Ask me about **Flutter, Web Development, and Databases**
+- 📫 How to reach me: **ahmedelsayd057@gmail.com**
+- ⚡ Fun fact: **I love turning complex logic into simple, clean code.**
+
+---
