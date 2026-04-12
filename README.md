@@ -15,7 +15,7 @@ I specialize in building complete digital ecosystems, from high-performance **Mo
 
 ### 📊 GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=ahmedelsayd057-dev & show_icons=true&theme=radical" alt="Ahmed's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=ahmedelsayd057-dev&show_icons=true&theme=radical" alt="Ahmed's GitHub Stats" />
 </p>
 
 ---
