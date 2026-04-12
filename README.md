@@ -51,3 +51,6 @@ I specialize in building complete digital ecosystems, from high-performance **Mo
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ahmedelsayd057-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
 </p>
+
+### ⚡ My GitHub Activity
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ahmedelsayd057-dev&theme=dracula)
