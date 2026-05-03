@@ -1,32 +1,17 @@
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    AHMED EL-SAYED — README.md             -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- AHMED EL-SAYED — README.md -->
 
 <div align="center">
 
-<!-- HEADER — inline SVG, zero external dependency, always renders -->
-<svg width="860" height="130" viewBox="0 0 860 130" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="hbg" x1="0" y1="0" x2="860" y2="130" gradientUnits="userSpaceOnUse">
-      <stop offset="0%" stop-color="#0d1117"/>
-      <stop offset="50%" stop-color="#161b22"/>
-      <stop offset="100%" stop-color="#0d1117"/>
-    </linearGradient>
-    <linearGradient id="acc" x1="0" y1="0" x2="860" y2="0" gradientUnits="userSpaceOnUse">
-      <stop offset="0%" stop-color="#0d1117"/>
-      <stop offset="35%" stop-color="#58a6ff"/>
-      <stop offset="65%" stop-color="#3fb950"/>
-      <stop offset="100%" stop-color="#0d1117"/>
-    </linearGradient>
-  </defs>
-  <rect width="860" height="130" rx="10" fill="url(#hbg)"/>
-  <rect y="126" width="860" height="4" rx="2" fill="url(#acc)"/>
-  <text x="430" y="55" text-anchor="middle" font-family="'Courier New',monospace" font-size="34" font-weight="bold" fill="#79c0ff" letter-spacing="4">Ahmed El-Sayed</text>
-  <text x="430" y="84" text-anchor="middle" font-family="'Courier New',monospace" font-size="14" fill="#3fb950">👨‍💻  Full-Stack Engineer  |  Mobile  •  Web  •  Cloud</text>
-  <text x="430" y="108" text-anchor="middle" font-family="'Courier New',monospace" font-size="12" fill="#8b949e">Building scalable digital products that make a real impact</text>
-</svg>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=79C0FF&center=true&vCenter=true&width=700&height=70&lines=Ahmed+El-Sayed+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Full-Stack+Engineer;Mobile+%E2%80%A2+Web+%E2%80%A2+Cloud" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0969DA&center=true&vCenter=true&width=700&height=70&lines=Ahmed+El-Sayed+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Full-Stack+Engineer;Mobile+%E2%80%A2+Web+%E2%80%A2+Cloud" alt="Typing SVG" />
+</picture>
 
-<br/><br/>
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=3FB950&center=true&vCenter=true&width=600&lines=Flutter+%7C+React+%7C+Node.js+Developer;Mobile+%26+Web+Full-Stack+Engineer;Cloud+Architecture+%26+Clean+Code)](https://git.io/typing-svg)
+
+<br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ahmedelsayd057-dev&label=Profile+Views&color=0e75b6&style=flat-square)
 &nbsp;
@@ -124,19 +109,15 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=ahmedelsayd057-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=79c0ff&icon_color=3fb950&text_color=c9d1d9&rank_icon=github" />
-&nbsp;&nbsp;
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedelsayd057-dev&layout=compact&langs_count=10&hide_border=true&bg_color=0d1117&title_color=79c0ff&text_color=c9d1d9&theme=tokyonight" />
-
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ahmedelsayd057-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=79c0ff&icon_color=3fb950&text_color=c9d1d9" />
+  &nbsp;
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedelsayd057-dev&layout=compact&langs_count=10&hide_border=true&bg_color=0d1117&title_color=79c0ff&text_color=c9d1d9&theme=tokyonight" />
 </div>
 
 <br/>
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=ahmedelsayd057-dev&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=21262d&ring=79c0ff&fire=f0883e&currStreakLabel=79c0ff&sideLabels=8b949e&dates=8b949e&sideNums=c9d1d9&currStreakNum=e6edf3" />
-
+  <img src="https://streak-stats.demolab.com?user=ahmedelsayd057-dev&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=21262d&ring=79c0ff&fire=f0883e&currStreakLabel=79c0ff&sideLabels=8b949e&dates=8b949e&sideNums=c9d1d9&currStreakNum=e6edf3" />
 </div>
 
 ---
@@ -144,19 +125,15 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ahmedelsayd057-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&margin-h=6&row=1&column=7" />
-
+  <img src="https://github-profile-trophy.vercel.app/?username=ahmedelsayd057-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
 </div>
 
 ---
 
-## 📈 Contribution Activity Graph
+## 📈 Contribution Graph
 
 <div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedelsayd057-dev&bg_color=0d1117&color=79c0ff&line=3fb950&point=f0883e&area=true&area_color=161b22&hide_border=true&custom_title=Ahmed's%20Contribution%20Graph" />
-
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedelsayd057-dev&bg_color=0d1117&color=79c0ff&line=3fb950&point=f0883e&area=true&area_color=161b22&hide_border=true" />
 </div>
 
 ---
@@ -164,12 +141,12 @@
 ## 🐍 Contribution Snake
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/ahmedelsayd057-dev/ahmedelsayd057-dev/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmedelsayd057-dev/ahmedelsayd057-dev/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmedelsayd057-dev/ahmedelsayd057-dev/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/ahmedelsayd057-dev/ahmedelsayd057-dev/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
 </div>
-
-> ⚙️ To activate the snake, create `.github/workflows/snake.yml` with the content in the file below.
 
 ---
 
@@ -177,9 +154,8 @@
 
 <div align="center">
 
-<!--  Replace YOUR_REPO_1 / YOUR_REPO_2 with your real repo names  -->
 [![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=ahmedelsayd057-dev&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=79c0ff&icon_color=3fb950&text_color=c9d1d9)](https://github.com/ahmedelsayd057-dev/YOUR_REPO_1)
-&nbsp;&nbsp;
+&nbsp;
 [![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=ahmedelsayd057-dev&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=79c0ff&icon_color=3fb950&text_color=c9d1d9)](https://github.com/ahmedelsayd057-dev/YOUR_REPO_2)
 
 </div>
@@ -193,8 +169,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedelsayd057@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201208749899?text=Hello%20Ahmed%2C%20I%20saw%20your%20GitHub%20profile!)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Twitter/X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://YOUR_PORTFOLIO_URL)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://YOUR_PORTFOLIO)
 
 </div>
 
