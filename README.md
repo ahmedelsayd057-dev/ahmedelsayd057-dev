@@ -13,19 +13,12 @@
 
 ---
 
-## 🧠 About Me
+### 🧠 About Me
+- 🔭 I’m currently working on **Full-Stack Projects**
+- 🌱 Learning **Advanced Architecture & Cloud**
+- 💬 Ask me about **Flutter, Web, Databases**
+- ⚡ Fun fact: I simplify complex systems into clean solutions
 
-```yaml
-name: Ahmed El-Sayed
-location: Cairo, Egypt 🇪🇬
-role: Full-Stack Software Engineer
-specialties:
-  - Mobile Apps (Flutter/Dart)
-  - Web Platforms (React + Node.js)
-  - Cloud Architecture & Databases
-status: Available for freelance & collaboration
-currently_learning: Advanced Architecture, Cloud & DevOps
-fun_fact: I simplify complex systems into clean solutions
 ```
 
 ---
