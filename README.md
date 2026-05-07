@@ -26,19 +26,19 @@
 ## 🧠 About Me
 
 ```yaml
-╔══════════════════════════════════════════════════════════════╗
-║                     Ahmed El-Sayed                          ║
-║               Full-Stack Software Engineer                  ║
-╠══════════════════════════════════════════════════════════════╣
-║  📍 Location      : Cairo, Egypt 🇪🇬                        ║
-║  💼 Role          : Full-Stack Software Engineer            ║
-║  🔭 Current Work  : Scalable Web & Mobile Platforms         ║
-║  🌱 Learning      : Advanced Architecture & Cloud           ║
-║  💬 Ask me about  : Flutter · React · Node.js · Databases   ║
-║  🤝 Open To       : Freelance & Remote Collaboration        ║
-║  ⚡ Philosophy    : Simplify complex → clean solutions      ║
-║  📧 Contact       : ahmedelsayd057@gmail.com                ║
-╚══════════════════════════════════════════════════════════════╝
+                                            ╔══════════════════════════════════════════════════════════════╗
+                                            ║                     Ahmed El-Sayed                           ║
+                                            ║               Full-Stack Software Engineer                   ║
+                                            ╠══════════════════════════════════════════════════════════════╣
+                                            ║  📍 Location       : Cairo, Egypt 🇪🇬                          ║
+                                            ║  💼 Role          : Full-Stack Software Engineer             ║
+                                            ║  🔭 Current Work  : Scalable Web & Mobile Platforms          ║
+                                            ║  🌱 Learning      : Advanced Architecture & Cloud            ║
+                                            ║  💬 Ask me about  : Flutter · React · Node.js · Databases    ║
+                                            ║  🤝 Open To       : Freelance & Remote Collaboration         ║
+                                            ║  ⚡ Philosophy    : Simplify complex → clean solutions       ║
+                                            ║  📧 Contact       : ahmedelsayd057@gmail.com                 ║
+                                            ╚══════════════════════════════════════════════════════════════╝
 ```
 
 ---
@@ -168,10 +168,10 @@
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════╗
-║  "Simplifying complex systems into clean, scalable          ║
-║   solutions — one commit at a time." 🚀                     ║
-╚══════════════════════════════════════════════════════════════╝
+                                     ╔══════════════════════════════════════════════════════════════╗
+                                     ║  "Simplifying complex systems into clean, scalable           ║
+                                     ║   solutions — one commit at a time."  🚀                    ║
+                                     ╚══════════════════════════════════════════════════════════════╝
 ```
 
 ![Footer](https://img.shields.io/badge/Made%20with-❤️%20in%20Cairo-0d1117?style=for-the-badge&labelColor=161b22&color=3fb950)
