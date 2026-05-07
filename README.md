@@ -150,17 +150,6 @@
 
 ---
 
-## 💼 Featured Projects
-
-<div align="center">
-
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=ahmedelsayd057-dev&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=79c0ff&icon_color=3fb950&text_color=c9d1d9)](https://github.com/ahmedelsayd057-dev/YOUR_REPO_1)
-&nbsp;
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=ahmedelsayd057-dev&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=79c0ff&icon_color=3fb950&text_color=c9d1d9)](https://github.com/ahmedelsayd057-dev/YOUR_REPO_2)
-
-</div>
-
----
 
 ## 📫 Let's Connect
 
